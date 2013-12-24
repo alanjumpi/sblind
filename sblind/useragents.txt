@@ -1,0 +1,50 @@
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0) 	Windows_7.htmlWindows 7 	Internet_Explorer_9.htmlInternet Explorer 9 	65,535 ip
+2 	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0) 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Internet_Explorer_9.htmlInternet Explorer 9 	65,535 ip
+3 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.94 Safari/537.4 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_22.htmlGoogle Chrome 22 	36,830 ip
+4 	Mozilla/5.0 (Windows NT 5.1; rv:12.0) Gecko/20100101 Firefox/12.0 	Windows_XP.htmlWindows XP 	Firefox_12.htmlFirefox 12 	33,226 ip
+5 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.94 Safari/537.4 	Windows_XP.htmlWindows XP 	Google_Chrome_22.htmlGoogle Chrome 22 	29,207 ip
+6 	Mozilla/5.0 (Windows NT 5.1; rv:11.0) Gecko/20100101 Firefox/11.0 	Windows_XP.htmlWindows XP 	Firefox_11.htmlFirefox 11 	27,348 ip
+7 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.94 Safari/537.4 	Windows_7.htmlWindows 7 	Google_Chrome_22.htmlGoogle Chrome 22 	27,058 ip
+8 	Mozilla/5.0 (Windows NT 5.1; rv:15.0) Gecko/20100101 Firefox/15.0.1 	Windows_XP.htmlWindows XP 	Firefox_15.htmlFirefox 15 	24,683 ip
+9 	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0) 	Windows_Vista.htmlWindows Vista 	Internet_Explorer_9.htmlInternet Explorer 9 	24,179 ip
+10 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20100101 Firefox/16.0 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_16.htmlFirefox 16 	23,174 ip
+11 	Mozilla/5.0 (Windows NT 5.1; rv:16.0) Gecko/20100101 Firefox/16.0 	Windows_XP.htmlWindows XP 	Firefox_16.htmlFirefox 16 	22,490 ip
+12 	Mozilla/5.0 (Windows NT 5.1; rv:14.0) Gecko/20100101 Firefox/14.0.1 	Windows_XP.htmlWindows XP 	Firefox_14.htmlFirefox 14 	22,263 ip
+13 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20100101 Firefox/15.0.1 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_15.htmlFirefox 15 	21,523 ip
+14 	Mozilla/5.0 (iPad; CPU OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 	iPad_iOS_511.htmliPad iOS 511 	Safari_5_1.htmlSafari 5.1 	20,548 ip
+15 	Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0) 	Windows_XP.htmlWindows XP 	Internet_Explorer_8.htmlInternet Explorer 8 	19,793 ip
+16 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:12.0) Gecko/20100101 Firefox/12.0 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_12.htmlFirefox 12 	19,531 ip
+17 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_21.htmlGoogle Chrome 21 	18,339 ip
+18 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1 	Windows_XP.htmlWindows XP 	Google_Chrome_21.htmlGoogle Chrome 21 	17,890 ip
+19 	Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20100101 Firefox/12.0 	Windows_7.htmlWindows 7 	Firefox_12.htmlFirefox 12 	17,773 ip
+20 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:14.0) Gecko/20100101 Firefox/14.0.1 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_14.htmlFirefox 14 	17,640 ip
+21 	Mozilla/5.0 (Windows NT 5.1; rv:13.0) Gecko/20100101 Firefox/13.0.1 	Windows_XP.htmlWindows XP 	Firefox_13.htmlFirefox 13 	17,363 ip
+22 	Mozilla/5.0 (Windows NT 5.1; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 	Windows_XP.htmlWindows XP 	Firefox_10.htmlFirefox 10 	17,014 ip
+23 	Mozilla/5.0 (iPhone; CPU iPhone OS 511 like Mac OS X) AppleWebKit/534.46 (KHTML like Gecko) Version/5.1 Mobile/9B206 Safari/7534.48.3 	iPhone_iOS_511.htmliPhone iOS 511 	Safari_5_1.htmlSafari 5.1 	16,663 ip
+24 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:11.0) Gecko/20100101 Firefox/11.0 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_11.htmlFirefox 11 	15,970 ip
+25 	Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) 	Windows_XP.htmlWindows XP 	Internet_Explorer_6.htmlInternet Explorer 6 	15,689 ip
+26 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.1 (KHTML like Gecko) Chrome/21.0.1180.89 Safari/537.1 	Windows_7.htmlWindows 7 	Google_Chrome_21.htmlGoogle Chrome 21 	14,794 ip
+27 	Mozilla/5.0 (Windows NT 6.1; rv:15.0) Gecko/20100101 Firefox/15.0.1 	Windows_7.htmlWindows 7 	Firefox_15.htmlFirefox 15 	14,310 ip
+28 	Mozilla/5.0 (Windows NT 6.1; rv:11.0) Gecko/20100101 Firefox/11.0 	Windows_7.htmlWindows 7 	Firefox_11.htmlFirefox 11 	14,193 ip
+29 	Mozilla/5.0 (Windows NT 6.1; rv:16.0) Gecko/20100101 Firefox/16.0 	Windows_7.htmlWindows 7 	Firefox_16.htmlFirefox 16 	14,178 ip
+30 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.11 (KHTML like Gecko) Chrome/20.0.1132.57 Safari/536.11 	Windows_XP.htmlWindows XP 	Google_Chrome_20.htmlGoogle Chrome 20 	14,035 ip
+31 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.52 Safari/536.5 	Windows_XP.htmlWindows XP 	Google_Chrome_19.htmlGoogle Chrome 19 	13,665 ip
+32 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.162 Safari/535.19 	Windows_XP.htmlWindows XP 	Google_Chrome_18.htmlGoogle Chrome 18 	13,663 ip
+33 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.56 Safari/536.5 	Windows_XP.htmlWindows XP 	Google_Chrome_19.htmlGoogle Chrome 19 	13,314 ip
+34 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML like Gecko) Chrome/17.0.963.56 Safari/535.11 	Windows_XP.htmlWindows XP 	Google_Chrome_17.htmlGoogle Chrome 17 	13,036 ip
+35 	Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1 	Windows_7.htmlWindows 7 	Firefox_14.htmlFirefox 14 	13,021 ip
+36 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.79 Safari/537.4 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_22.htmlGoogle Chrome 22 	12,495 ip
+37 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML like Gecko) Chrome/20.0.1132.57 Safari/536.11 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_20.htmlGoogle Chrome 20 	12,465 ip
+38 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:13.0) Gecko/20100101 Firefox/13.0.1 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_13.htmlFirefox 13 	12,113 ip
+39 	Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0) 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Internet_Explorer_9.htmlInternet Explorer 9 	11,747 ip
+40 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.79 Safari/537.4 	Windows_XP.htmlWindows XP 	Google_Chrome_22.htmlGoogle Chrome 22 	11,041 ip
+41 	Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.19 (KHTML like Gecko) Chrome/18.0.1025.168 Safari/535.19 	Windows_XP.htmlWindows XP 	Google_Chrome_18.htmlGoogle Chrome 18 	10,706 ip
+42 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.52 Safari/536.5 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_19.htmlGoogle Chrome 19 	10,654 ip
+43 	Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.56 Safari/536.5 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Google_Chrome_19.htmlGoogle Chrome 19 	10,556 ip
+44 	Mozilla/5.0 (Macintosh; Intel Mac OS X 1068) AppleWebKit/534.57.2 (KHTML like Gecko) Version/5.1.7 Safari/534.57.2 	Mac_OS_X_1068.htmlMac OS X 1068 	Safari_5_1.htmlSafari 5.1 	10,420 ip
+45 	Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.2) Gecko/20100101 Firefox/10.0.2 	Windows_7_x64_Edition.htmlWindows 7 x64 Edition 	Firefox_10.htmlFirefox 10 	9,859 ip
+46 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.4 (KHTML like Gecko) Chrome/22.0.1229.79 Safari/537.4 	Windows_7.htmlWindows 7 	Google_Chrome_22.htmlGoogle Chrome 22 	9,786 ip
+47 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.11 (KHTML like Gecko) Chrome/20.0.1132.57 Safari/536.11 	Windows_7.htmlWindows 7 	Google_Chrome_20.htmlGoogle Chrome 20 	9,785 ip
+48 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.56 Safari/536.5 	Windows_7.htmlWindows 7 	Google_Chrome_19.htmlGoogle Chrome 19 	9,596 ip
+49 	Mozilla/5.0 (Windows NT 6.1) AppleWebKit/536.5 (KHTML like Gecko) Chrome/19.0.1084.52 Safari/536.5 	Windows_7.htmlWindows 7 	Google_Chrome_19.htmlGoogle Chrome 19 	9,489 ip
+50 	Mozilla/5.0 (Windows NT 6.1; rv:13.0) Gecko/20100101 Firefox/13.0.1

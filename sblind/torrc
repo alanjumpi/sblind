@@ -1,0 +1,5 @@
+HTTPProxy proxyip:port
+HTTPProxyAuthenticator user:pass
+Socks5Proxy localhost:8181
+MaxCircuitDirtiness 1
+NewCircuitPeriod 10

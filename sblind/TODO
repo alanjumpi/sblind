@@ -1,0 +1,4 @@
+- Refactory HTTP parser. Currently it is hacky and bug prone. Libxml sucks but may be a solution.
+- Add cmake build system (ok)
+- Decide if we'll rewrite as C++, good for flexibility.
+- Fix Google search, stopped to work, no idea why.
