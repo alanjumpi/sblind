@@ -25,10 +25,6 @@
  * libxml didn't prove to be reliable enough, I'd have to parse
  * myself a lot of garbage too, so I moved forward.
  *  
- *  Whatever, you, kind reader, will find some ugly and dirty hacks
- *  and workarounds in this code and you'll blame me about 
- *  that but I don't care, really.
- *
  *  There are some bugs and once in a while a weird URL is displayed
  *  but it is not really a big deal since we can parse most of the links successfully,
  *  providing us a fair success rate.
