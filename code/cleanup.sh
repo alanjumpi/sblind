@@ -1,5 +1,5 @@
 #!/bin/bash
-make clean
+make clean 2>/dev/null
 find . -name "*.swp" |xargs rm -v 2>/dev/null
 find . -name "*.swo" |xargs rm -v 2>/dev/null
 find . -name "*.swx" |xargs rm -v 2>/dev/null
