@@ -172,8 +172,7 @@ static void *_go_shot(void *t)
         curl_easy_perform(handle);
         pthread_mutex_unlock(&mutex_b);
         
-        //switch((int)data->retcode)
-	switch(*(int *)data->retcode)
+        switch((unsigned long)data->retcode)
         {
             case 1:
                 DEBUG("[%s] Works!\n", engineHelper[data->engine].name);
