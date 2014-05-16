@@ -19,7 +19,7 @@
  - Included cmake support (necessary cmake >= 2.8)
 
    mkdir build
-   cd build/ && cmake ../
+   cd build/ && cmake
    make sb
 
 
